@@ -1,4 +1,6 @@
-## Ramona Rocha👋
+## Ramona Rocha ##
+
+
 
 **`Desenvolvedora Salesforce`**
 
@@ -7,6 +9,8 @@ Hello World!
 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco no aprendizado do ecossistema Salesforce. Tenho me dedicado ao estudo de Administração Salesforce e boas práticas de desenvolvimento, com o objetivo de atuar como Desenvolvedora Salesforce.
 
 Este perfil é dedicado a registrar minha evolução por meio de projetos, exercícios práticos e aprendizado contínuo, tanto em Salesforce quanto em novas linguagens e tecnologias.
+
+                                                          •₊✧💻⋆⭒📑✍️˚⋆
 
 
 
